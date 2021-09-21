@@ -1,0 +1,10 @@
+{
+    "name": "Pirate1",
+    "description": "Pirate number one of FisherVsPirate.com",
+    "image": "./images/pj1.png",
+    "attributes": [
+    {
+    "trait_type": "rarity",
+    "value": "Common"
+    }]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Port2",
+    "description": "Port number two of FisherVsPirate.com",
+    "image": "./images/port2.png",
+    "attributes": [
+    {
+    "trait_type": "rarity",
+    "value": "Mistic"
+    },]
+}

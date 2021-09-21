@@ -1,0 +1,10 @@
+{
+    "name": "Boat2",
+    "description": "Boat number two of FisherVsPirate.com",
+    "image": "./images/boat2.png",
+    "attributes": [
+    {
+    "trait_type": "rarity",
+    "value": "Mistic"
+    }]
+}
