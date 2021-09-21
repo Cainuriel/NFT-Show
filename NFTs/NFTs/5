@@ -1,7 +1,7 @@
 {
     "name": "Port1",
     "description": "Port number one of FisherVsPirate.com",
-    "image": "./images/port1.png",
+    "image": "https://nft-show.netlify.app/img/port1.png",
     "attributes": [
     {
     "trait_type": "rarity",

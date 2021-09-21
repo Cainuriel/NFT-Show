@@ -1,7 +1,7 @@
 {
     "name": "Pirate2",
     "description": "Pirate number two of FisherVsPirate.com",
-    "image": "./images/pj2.png",
+    "image": "https://nft-show.netlify.app/img/pj1.png",
     "attributes": [
     {
     "trait_type": "rarity",
