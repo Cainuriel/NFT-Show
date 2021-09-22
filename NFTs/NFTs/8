@@ -1,14 +1,14 @@
 {
-    "name": "Pirate Yack",
-    "description": "Young and fearless pirate who seeks to become a legend of the sea",
-    "image": "https://nft-show.netlify.app/img/pj1.png",
+    "name": "Basic Boat",
+    "description": "light boat to board by surprise",
+    "image": "https://nft-show.netlify.app/img/boat1.png",
     "attributes": [
     {
     "trait_type": "rarity",
     "value": "Common"
     },{
         "trait_type": "serial_number",
-        "value": 1,
+        "value": 2,
         "max_value": 1000,
         "display_type": "number"
         }]

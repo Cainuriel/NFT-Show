@@ -1,10 +1,15 @@
 {
-    "name": "Boat1",
-    "description": "Boat number one of FisherVsPirate.com",
+    "name": "Basic Boat",
+    "description": "light boat to board by surprise",
     "image": "https://nft-show.netlify.app/img/boat1.png",
     "attributes": [
     {
     "trait_type": "rarity",
     "value": "Common"
-    }]
+    },{
+        "trait_type": "serial_number",
+        "value": 1,
+        "max_value": 1000,
+        "display_type": "number"
+        }]
 }

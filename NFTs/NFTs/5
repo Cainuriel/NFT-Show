@@ -1,10 +1,15 @@
 {
-    "name": "Port1",
-    "description": "Port number one of FisherVsPirate.com",
+    "name": "Port of Santa Esperanza",
+    "description": "Small port for a single ship",
     "image": "https://nft-show.netlify.app/img/port1.png",
     "attributes": [
     {
     "trait_type": "rarity",
     "value": "Common"
-    }]
+    },{
+        "trait_type": "serial_number",
+        "value": 1,
+        "max_value": 1000,
+        "display_type": "number"
+        }]
 }
