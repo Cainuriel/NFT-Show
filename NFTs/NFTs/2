@@ -1,7 +1,7 @@
 {
     "name": "Pirate Yack",
     "description": "Young and fearless pirate who seeks to become a legend of the sea",
-    "image": "https://nft-show.netlify.app/img/pj1.png",
+    "image": "http://localhost:3000/img/pj1.png",
     "attributes": [
     {
     "trait_type": "rarity",

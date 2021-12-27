@@ -1,11 +1,11 @@
 {
     "name": "Black Flag",
     "description": "Sorry it has been hacked !! hahahahahaha !!",
-    "image": "https://nft-show.netlify.app/img/Flag.png",
+    "image": "http://localhost:3000/img/Flag.png",
     "attributes": [
     {
     "trait_type": "rarity",
-    "value": "Bad luck friend"
+    "value": "Bad luck friend!"
     },{
         "trait_type": "serial_number",
         "value": 1,

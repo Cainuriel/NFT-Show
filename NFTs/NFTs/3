@@ -1,7 +1,7 @@
 {
     "name": "Captain Red Beard",
     "description": "Historical and mythical pirate of the mediterranean basin",
-    "image": "https://nft-show.netlify.app/img/pj.png",
+    "image": "http://localhost:3000/img/pj.png",
     "attributes": [
         {
         "trait_type": "rarity",

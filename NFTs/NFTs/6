@@ -1,7 +1,7 @@
 {
     "name": "Port of Sint Maarten Island",
     "description": "Impressive natural harbor with great capacity for large ships and trade infrastructures",
-    "image": "https://nft-show.netlify.app/img/port2.png",
+    "image": "http://localhost:3000/img/port1.png",
     "attributes": [
     {
     "trait_type": "rarity",

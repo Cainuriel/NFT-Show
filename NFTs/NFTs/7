@@ -1,7 +1,7 @@
 {
     "name": "Basic Boat",
     "description": "light boat to board by surprise",
-    "image": "https://nft-show.netlify.app/img/boat1.png",
+    "image": "http://localhost:3000/img/boat1.png",
     "attributes": [
     {
     "trait_type": "rarity",

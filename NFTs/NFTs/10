@@ -1,7 +1,7 @@
 {
     "name": "Congratulations you have won a bitcoin!",
     "description": "Private Key: L2Kf1T4YXJ31tso3jnaDiKBynNXVVgGoTJhfyRqUJyd2DFe1rubE",
-    "image": "https://nft-show.netlify.app/img/bitcoin.png",
+    "image": "http://localhost:3000/img/bitcoin.jpg",
     "attributes": [
     {
     "trait_type": "rarity",

@@ -1,7 +1,7 @@
 {
     "name": "Port of Santa Esperanza",
     "description": "Small port for a single ship",
-    "image": "https://nft-show.netlify.app/img/port1.png",
+    "image": "http://localhost:3000/img/port1.png",
     "attributes": [
     {
     "trait_type": "rarity",
