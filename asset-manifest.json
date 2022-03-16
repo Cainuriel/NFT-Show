@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d489665.chunk.css",
-    "main.js": "/static/js/main.866a71e6.chunk.js",
-    "main.js.map": "/static/js/main.866a71e6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f207d9e3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f207d9e3.js.map",
-    "static/js/2.7ea63aa9.chunk.js": "/static/js/2.7ea63aa9.chunk.js",
-    "static/js/2.7ea63aa9.chunk.js.map": "/static/js/2.7ea63aa9.chunk.js.map",
+    "main.css": "/static/css/main.9f8cf3df.chunk.css",
+    "main.js": "/static/js/main.cacd0073.chunk.js",
+    "main.js.map": "/static/js/main.cacd0073.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e263de88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e263de88.js.map",
+    "static/js/2.0cfacd21.chunk.js": "/static/js/2.0cfacd21.chunk.js",
+    "static/js/2.0cfacd21.chunk.js.map": "/static/js/2.0cfacd21.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3d489665.chunk.css.map": "/static/css/main.3d489665.chunk.css.map",
-    "static/js/2.7ea63aa9.chunk.js.LICENSE.txt": "/static/js/2.7ea63aa9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/LuckiestGuy-Regular.f5378756.svg"
+    "static/css/main.9f8cf3df.chunk.css.map": "/static/css/main.9f8cf3df.chunk.css.map",
+    "static/js/2.0cfacd21.chunk.js.LICENSE.txt": "/static/js/2.0cfacd21.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/GameOfSquids-1GMVL.4ddf2787.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f207d9e3.js",
-    "static/js/2.7ea63aa9.chunk.js",
-    "static/css/main.3d489665.chunk.css",
-    "static/js/main.866a71e6.chunk.js"
+    "static/js/runtime-main.e263de88.js",
+    "static/js/2.0cfacd21.chunk.js",
+    "static/css/main.9f8cf3df.chunk.css",
+    "static/js/main.cacd0073.chunk.js"
   ]
 }
